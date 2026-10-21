@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-10-21 15:00:02",
+  "embedding_dim": 512,
+  "names": [
+    "Cyuzuzo",
+    "Melissa",
+    "Noah",
+    "ikirezi",
+    "melissa"
+  ],
+  "samples_existing_used": 0,
+  "samples_new_used": 19,
+  "samples_total_used": 19,
+  "note": "Embeddings are L2-normalized vectors. Matching uses cosine similarity."
+}

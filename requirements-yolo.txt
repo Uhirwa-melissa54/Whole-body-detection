@@ -1,0 +1,2 @@
+# CPU whole-person detector. First run downloads the selected .pt model.
+ultralytics>=8.3,<9
